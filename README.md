@@ -5,7 +5,6 @@
 </div>
 
 # 💫 About Me:
-## About Me
 
 **I’m currently working on**
 I’m improving my frontend skills by creating responsive and interactive websites. I enjoy turning ideas and designs into attractive and user-friendly websites.
