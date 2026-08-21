@@ -1,5 +1,19 @@
 # 💫 About Me:
-## About Me<br><br>**I’m currently working on**<br>I’m currently working on improving my frontend development skills by creating responsive and interactive websites. I enjoy turning ideas and designs into functional web experiences while experimenting with different layouts, animations, and user interfaces.<br>**I’m looking to collaborate on**<br>I’m interested in collaborating on creative web projects, especially projects involving frontend development, UI/UX design, and modern website interfaces. I enjoy working with others, sharing ideas, and learning new things through real projects.<br>**I’m looking for help with**<br>I’m looking to improve my understanding of JavaScript, modern frontend technologies, website performance, and writing cleaner and more efficient code. I’m always open to learning from other developers and improving my skills.<br>**I’m currently learning**<br>I’m currently learning more about HTML, CSS, JavaScript, responsive web design, UI/UX, and modern frontend development. I’m also exploring different tools and technologies that can help me build better and more engaging websites.<br>**Ask me about**<br>You can ask me about frontend development, website design, UI/UX, HTML, CSS, JavaScript, or my experience learning web development as a student. I’m always happy to talk about coding and share what I’ve learned.<br>**Fun fact**<br>I’m a student who enjoys creating websites and experimenting with new designs. I like taking a simple idea and turning it into something interactive, functional, and visually interesting.<br>
+## About Me
+
+**I’m currently working on**
+I’m improving my frontend skills by creating responsive and interactive websites. I enjoy turning ideas and designs into attractive and user-friendly websites.
+**I’m looking to collaborate on**
+I’m interested in collaborating on website projects, frontend development, and UI/UX. I also enjoy sharing ideas and learning with other developers.
+**I’m looking for help with**
+I want to improve my JavaScript skills, understand modern frontend technologies, and learn to write cleaner and more efficient code.
+**I’m currently learning**
+I’m currently learning HTML, CSS, JavaScript, responsive design, UI/UX, and various modern frontend technologies.
+**Ask me about**
+You can ask me about frontend development, website design, UI/UX, HTML, CSS, JavaScript, or my experience learning to code as a student.
+**Fun fact**
+I’m a student who enjoys building websites and experimenting with different designs. I love turning simple ideas into interactive and attractive websites.
+<br>
 
 
 ## 🌐 Socials:
