@@ -21,6 +21,13 @@ You can ask me about frontend development, website design, UI/UX, HTML, CSS, Jav
 I’m a student who enjoys building websites and experimenting with different designs. I love turning simple ideas into interactive and attractive websites.
 <br>
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LannAcode/LannAcode/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LannAcode/LannAcode/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LannAcode/LannAcode/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/acode_lann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lanndevv-fe-se-1967ba413/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nangggggg22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:acodelangit@gmail.com) 
