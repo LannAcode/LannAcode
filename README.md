@@ -66,9 +66,14 @@ I’m a student who enjoys building websites and experimenting with different de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LannAcode/LannAcode/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LannAcode/LannAcode/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LannAcode/LannAcode/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
 ###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LannAcode&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=LannAcode&theme=city_lights&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=LannAcode&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -77,7 +82,7 @@ I’m a student who enjoys building websites and experimenting with different de
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
