@@ -16,11 +16,7 @@ You can ask me about frontend development, website design, UI/UX, HTML, CSS, Jav
 I’m a student who enjoys building websites and experimenting with different designs. I love turning simple ideas into interactive and attractive websites.
 <br>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LannAcode/LannAcode/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LannAcode/LannAcode/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LannAcode/LannAcode/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+
 
 ###
 
